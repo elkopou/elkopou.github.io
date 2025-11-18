@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ns0:urlset xmlns:html="http://www.w3.org/1999/xhtml"
-    xmlns:ns0="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<ns0:urlset xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <ns0:url>
         <ns0:loc>https://elkop.ee/</ns0:loc>
         <ns0:priority>1.00</ns0:priority>
@@ -12,8 +9,7 @@
     <ns0:url>
         <ns0:loc>https://elkop.ee/ekskavaatoriteenus-saaremaal</ns0:loc>
         <ns0:priority>0.80</ns0:priority>
-        <html:link rel="alternate" hreflang="ee"
-            href="https://elkop.ee/ekskavaatoriteenus-saaremaal" />
+        <html:link rel="alternate" hreflang="ee" href="https://elkop.ee/ekskavaatoriteenus-saaremaal" />
         <ns0:lastmod>2025-11-11</ns0:lastmod>
     </ns0:url>
     <ns0:url>
@@ -49,8 +45,7 @@
     <ns0:url>
         <ns0:loc>https://elkop.ee/vundamendi-ettevalmistus-saaremaal</ns0:loc>
         <ns0:priority>0.80</ns0:priority>
-        <html:link rel="alternate" hreflang="ee"
-            href="https://elkop.ee/vundamendi-ettevalmistus-saaremaal" />
+        <html:link rel="alternate" hreflang="ee" href="https://elkop.ee/vundamendi-ettevalmistus-saaremaal" />
         <ns0:lastmod>2025-11-11</ns0:lastmod>
     </ns0:url>
     <ns0:url>
@@ -68,8 +63,7 @@
     <ns0:url>
         <ns0:loc>https://elkop.ee/poollooduslike-koosluste-taastamine</ns0:loc>
         <ns0:priority>0.80</ns0:priority>
-        <html:link rel="alternate" hreflang="ee"
-            href="https://elkop.ee/poollooduslike-koosluste-taastamine" />
+        <html:link rel="alternate" hreflang="ee" href="https://elkop.ee/poollooduslike-koosluste-taastamine" />
         <ns0:lastmod>2025-11-11</ns0:lastmod>
     </ns0:url>
 </ns0:urlset>
